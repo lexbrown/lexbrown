@@ -4,7 +4,7 @@
 </h1>
 
 <p align='center'>
-  Data Analyst / Data Engineer from Moscow
+  Data Architect / Data Engineer from Moscow
 </p>
 
 
